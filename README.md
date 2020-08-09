@@ -11,6 +11,10 @@
 
 ## Capturas de Pantalla
 
+### Diagrama de Clase
+
+![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/07.png)
+
 ### Clase Padre DatosGenerales.java
 
 ![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/01.png)

@@ -8,6 +8,8 @@
 4. Polimorfismo.
 5. Interfaces.
 6. Etc...
+7. ArrayList.
+8. Excepciones try catch.
 
 ## Capturas de Pantalla
 
@@ -38,4 +40,12 @@
 ### Salida en Consola Ejecutando el Proyecto
 
 ![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/06.png)
+
+### Uso de ArrayList
+
+![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/08.png)
+
+### Uso de Excepciones
+
+![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/08.png)
 

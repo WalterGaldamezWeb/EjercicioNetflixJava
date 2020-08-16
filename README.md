@@ -47,5 +47,5 @@
 
 ### Uso de Excepciones
 
-![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/08.png)
+![captura01](https://github.com/WalterGaldamezWeb/EjercicioNetflixJava/blob/master/capturas_pantalla/09.png)
 
